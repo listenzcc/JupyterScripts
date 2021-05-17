@@ -1,4 +1,5 @@
+# Ignore all the known large files
 .ipynb_checkpoints
-# Ignore all the html and json files
+*data
 *html
 *json
