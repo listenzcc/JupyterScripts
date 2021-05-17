@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+# Ignore all the html and json files
+*html
+*json
