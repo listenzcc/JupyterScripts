@@ -1,6 +1,7 @@
 # Ignore all the known large files
 .ipynb_checkpoints
 ./3dModel/*
+./freeSurferObj/*
 3dModel
 *data
 *html
